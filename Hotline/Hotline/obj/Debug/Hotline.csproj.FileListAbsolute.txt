@@ -1,0 +1,15 @@
+C:\Users\Olena_Repinetska\source\repos\Hotline\Hotline\bin\Debug\Hotline.exe.config
+C:\Users\Olena_Repinetska\source\repos\Hotline\Hotline\bin\Debug\Hotline.exe
+C:\Users\Olena_Repinetska\source\repos\Hotline\Hotline\bin\Debug\Hotline.pdb
+C:\Users\Olena_Repinetska\source\repos\Hotline\Hotline\bin\Debug\System.Management.Automation.dll
+C:\Users\Olena_Repinetska\source\repos\Hotline\Hotline\bin\Debug\WebDriver.dll
+C:\Users\Olena_Repinetska\source\repos\Hotline\Hotline\bin\Debug\WebDriver.Support.dll
+C:\Users\Olena_Repinetska\source\repos\Hotline\Hotline\bin\Debug\Microsoft.Management.Infrastructure.dll
+C:\Users\Olena_Repinetska\source\repos\Hotline\Hotline\bin\Debug\System.Management.Automation.xml
+C:\Users\Olena_Repinetska\source\repos\Hotline\Hotline\bin\Debug\WebDriver.xml
+C:\Users\Olena_Repinetska\source\repos\Hotline\Hotline\bin\Debug\WebDriver.Support.xml
+C:\Users\Olena_Repinetska\source\repos\Hotline\Hotline\obj\Debug\Hotline.csprojAssemblyReference.cache
+C:\Users\Olena_Repinetska\source\repos\Hotline\Hotline\obj\Debug\Hotline.csproj.CoreCompileInputs.cache
+C:\Users\Olena_Repinetska\source\repos\Hotline\Hotline\obj\Debug\Hotline.csproj.CopyComplete
+C:\Users\Olena_Repinetska\source\repos\Hotline\Hotline\obj\Debug\Hotline.exe
+C:\Users\Olena_Repinetska\source\repos\Hotline\Hotline\obj\Debug\Hotline.pdb
